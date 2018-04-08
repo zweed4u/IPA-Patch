@@ -1,0 +1,9 @@
+[submodule "hexbytescanner"]
+	path = hexbytescanner
+	url = git@github.com:zweed4u/hexbytescanner
+[submodule "hexbytescanner-hooks"]
+	path = hexbytescanner-hooks
+	url = https://github.com/karek314/hexbytescanner-hooks.git
+[submodule "HandyIPAPatcher"]
+	path = HandyIPAPatcher
+	url = git@github.com:zweed4u/HandyIPAPatcher.git
